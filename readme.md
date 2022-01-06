@@ -4,7 +4,7 @@
 ## 功能
 
 ## 阶段
-* `version: 0.3`
+* `version: 0.3.2`
 
 ## 静态地址
 * github: [https://shiotsukikaedesari.github.io/vis-topology-editor/](https://shiotsukikaedesari.github.io/vis-topology-editor/)
