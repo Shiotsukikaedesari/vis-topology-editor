@@ -21,7 +21,7 @@ todo:
 
 * 保存与导入
 ## 阶段
-* `version: 0.5.1`
+* `version: 0.5.6`
 
 ## 静态地址
 * github: [http://shiotsukikaedesari.github.io/vis-topology-editor/](http://shiotsukikaedesari.github.io/vis-topology-editor/)
