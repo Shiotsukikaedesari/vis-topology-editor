@@ -1,5 +1,5 @@
 ## vis-topology-editor
- 可视化拓扑编辑器
+ 可视化拓扑流程编辑器
 
  ## 快捷键
  * `空格 + 鼠标左键`: 拖动画布
@@ -10,8 +10,18 @@
 
 ## 功能
 
+* 自定义形状节点
+* 自定义链接点
+* 自定义连线类型
+* 自定义样式
+* 可定制化的节点连线主体
+* 画布图片导出
+
+todo:
+
+* 保存与导入
 ## 阶段
-* `version: 0.3.3`
+* `version: 0.3.6`
 
 ## 静态地址
 * github: [https://shiotsukikaedesari.github.io/vis-topology-editor/](https://shiotsukikaedesari.github.io/vis-topology-editor/)

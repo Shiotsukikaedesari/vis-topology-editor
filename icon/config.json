@@ -1,8 +1,8 @@
 [
   {
-    "name": "vis-topology",
-    "js": "/icon/vis-topology/iconfont.js",
-    "css": "/icon/vis-topology/iconfont.css",
-    "json": "/icon/vis-topology/iconfont.json"
+    "name": "vis-operation",
+    "js": "/icon/vis-operation/iconfont.js",
+    "css": "/icon/vis-operation/iconfont.css",
+    "json": "/icon/vis-operation/iconfont.json"
   }
 ]
