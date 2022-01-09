@@ -16,12 +16,13 @@
 * 自定义样式
 * 可定制化的节点连线主体
 * 画布图片导出
+* 数据自动保存与恢复
 
 todo:
 
-* 保存与导入
+* 外部保存与外部导入
 ## 阶段
-* `version: 0.5.6`
+* `version: 0.6.0`
 
 ## 静态地址
 * github: [http://shiotsukikaedesari.github.io/vis-topology-editor/](http://shiotsukikaedesari.github.io/vis-topology-editor/)
