@@ -22,7 +22,7 @@ todo:
 
 * 外部保存与外部导入
 ## 阶段
-* `version: 0.6.0`
+* `version: 0.6.1`
 
 ## 静态地址
 * github: [http://shiotsukikaedesari.github.io/vis-topology-editor/](http://shiotsukikaedesari.github.io/vis-topology-editor/)
