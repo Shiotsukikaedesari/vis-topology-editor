@@ -14,15 +14,18 @@
 * 自定义链接点
 * 自定义连线类型
 * 自定义样式
-* 可定制化的节点连线主体
 * 画布图片导出
 * 数据自动保存与恢复
+* 外部保存与外部导入
 
 todo:
+* 变换控制器
+* 节点吸附
+* 连线吸附
 
-* 外部保存与外部导入
+
 ## 阶段
-* `version: 0.6.1`
+* `version: 0.7.0`
 
 ## 静态地址
 * github: [http://shiotsukikaedesari.github.io/vis-topology-editor/](http://shiotsukikaedesari.github.io/vis-topology-editor/)
