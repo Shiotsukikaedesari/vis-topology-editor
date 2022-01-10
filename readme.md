@@ -5,6 +5,7 @@
  * `空格 + 鼠标左键`: 拖动画布
  * `鼠标滚轮`: 滚动画布
  * `alt + 鼠标滚轮`: 缩放画布
+ * `ctrl + s`: 保存当前页面
 
  > 后期加入页面帮助
 
@@ -17,15 +18,17 @@
 * 画布图片导出
 * 数据自动保存与恢复
 * 外部保存与外部导入
+* 变换控制器
 
 todo:
-* 变换控制器
 * 节点吸附
 * 连线吸附
+* 图标库选择
+* 图片库选择
 
 
 ## 阶段
-* `version: 0.7.1`
+* `version: 0.8.0`
 
 ## 静态地址
 * github: [http://shiotsukikaedesari.github.io/vis-topology-editor/](http://shiotsukikaedesari.github.io/vis-topology-editor/)
