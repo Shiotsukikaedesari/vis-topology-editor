@@ -19,16 +19,19 @@
 * 数据自动保存与恢复
 * 外部保存与外部导入
 * 变换控制器
+* 节点吸附
 
 todo:
-* 节点吸附
 * 连线吸附
 * 图标库选择
 * 图片库选择
 
+perf:
+* 画布自适应优化
+* 辅助线显示优化
 
 ## 阶段
-* `version: 0.8.0`
+* `version: 0.9.0`
 
 ## 静态地址
 * github: [http://shiotsukikaedesari.github.io/vis-topology-editor/](http://shiotsukikaedesari.github.io/vis-topology-editor/)
